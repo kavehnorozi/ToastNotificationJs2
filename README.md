@@ -1,6 +1,6 @@
 
 # 🍞 ToastNotification.js
-
+# Version 2.0.0
 A modern, customizable, and lightweight JavaScript Toast Notification System built with pure HTML5, CSS3, and vanilla JavaScript.
 
 سیستم اعلان (Toast Notification) مدرن، قابل تنظیم و سبک با استفاده از HTML5 و CSS3 و جاوااسکریپت خالص.
