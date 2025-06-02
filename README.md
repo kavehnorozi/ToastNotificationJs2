@@ -86,8 +86,10 @@ https://webecco.com/ToastNotificationjs/index.html
 
 ## 📸 Screenshots | تصاویر
 
-![Demo](demo1.png)
-![Demo](demo2.png)
+![Demo](![image](https://github.com/user-attachments/assets/d44d51c4-3717-44fc-9c4d-2ddd0c2f26f9)
+)
+![Demo](![image](https://github.com/user-attachments/assets/f3916812-d01a-438b-b5a0-3835c03cf3f1)
+)
 
 ---
 
