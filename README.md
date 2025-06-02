@@ -24,6 +24,12 @@ A modern, customizable, and lightweight JavaScript Toast Notification System bui
 ---
 
 ## 📦 Installation | نصب
+You can use Nuget:
+```html
+dotnet add package ToastNotificationJs --version 2.0.1
+```
+
+or
 
 You can simply include the files in your HTML project:
 
